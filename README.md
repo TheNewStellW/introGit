@@ -9,3 +9,4 @@ Have Fun!
 ## Edit #2: Adding change to branch02 in remote via browser
 
 ## Edit #4: My hotfix changes
+## Edit #2: Adding change to branch02 in remote via browser
