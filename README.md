@@ -7,3 +7,5 @@ Have Fun!
 
 ## Edit #3: Adding change to laptop-branch locally.
 ## Edit #2: Adding change to branch02 in remote via browser
+
+## Edit #4: My hotfix changes
