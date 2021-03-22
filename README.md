@@ -6,3 +6,4 @@ Have Fun!
 ## Edit #1: Learning Git with Amit.
 
 ## Edit #3: Adding change to laptop-branch locally.
+## Edit #2: Adding change to branch02 in remote via browser
